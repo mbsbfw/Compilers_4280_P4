@@ -1,0 +1,7 @@
+declare x := 1 ;
+{
+  in x ;
+   out 10 + x ;
+  out 50 / 2 + 3 ;
+  out ( 50 / 2 ) + 3 ;
+}

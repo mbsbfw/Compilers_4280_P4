@@ -1,0 +1,5 @@
+declare x := 7 ;
+{
+  x := 11 ;
+  out x ;
+}

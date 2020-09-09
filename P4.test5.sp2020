@@ -1,0 +1,6 @@
+declare x := 5 ;
+{
+  in x ;
+  iffy [ x < 5 ] then
+     out x ; ;
+}

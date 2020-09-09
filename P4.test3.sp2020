@@ -1,0 +1,5 @@
+     declare x := 1 ;
+{
+  in x ;
+  out x ;
+}
